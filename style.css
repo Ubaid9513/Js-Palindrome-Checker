@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+h1{
+    margin-top: 10%;
+    font-size: 30px;
+    color: rgba(242, 169, 33, 0.892);
+}
+sup {
+    color: orange;
+    font-size: 50px;
+}
+form {
+    margin-top: 5%;
+}
+#userInput {
+    width: 30%;
+    height: 20px;
+}
+#btn {
+    font-size: 16px;
+    color: orange;
+}
+#list {
+    width: 30%;
+    margin-top: 3%;
+    margin-left: 35%;
+    font-size: 18px;
+    padding: 5px;
+} 
